@@ -1,4 +1,3 @@
-
 # Run the SPOTL++ kit in Docker
 
 ## 0) Build the image
