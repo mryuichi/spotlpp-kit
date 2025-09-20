@@ -1,0 +1,8 @@
+
+services:
+  spotlpp:
+    build: .
+    image: spotlpp-kit:latest
+    working_dir: /app
+    tty: true
+    stdin_open: true
