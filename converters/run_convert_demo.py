@@ -1,4 +1,3 @@
-
 import json, sys
 from ud2spotlpp import convert_batch
 def main(path):
