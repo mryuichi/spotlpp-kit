@@ -1,4 +1,3 @@
-
 # SPOTL++ (English) mini-kit with UD->SPOTL++ demo
 
 This branch adds SPOTL++ roles (M/A/C/R/Qn) and a tiny UD->SPOTL++ converter demo
