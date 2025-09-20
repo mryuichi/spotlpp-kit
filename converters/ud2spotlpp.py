@@ -1,4 +1,3 @@
-
 """
 Very light UD->SPOTL++ converter for English demo.
 See README for the simplified UD JSON format.
